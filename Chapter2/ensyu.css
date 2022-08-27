@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: block;
+  margin: 10px;
+}
+
+h1{
+  color: orange;
+}
+
+h2{
+  margin: 10px;
+}
+
+p{
+  margin: 10px;
+}
+
+a{
+  margin: 10px;
+}
